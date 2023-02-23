@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.edu.pw.ee.HashDoubleHashingTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.277 s - in pl.edu.pw.ee.HashDoubleHashingTest

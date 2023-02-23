@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.edu.pw.ee.HashQuadraticProbingTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.798 s - in pl.edu.pw.ee.HashQuadraticProbingTest
